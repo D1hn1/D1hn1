@@ -2,7 +2,7 @@
 <h1 style="font-size:10%;">DANI</h1>
 <hr>
 
-### ME:
+<marquee>Me:</marquee>
 ### ❕ - Málaga
 ### 🧒 - 17
 
