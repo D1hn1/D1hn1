@@ -3,10 +3,12 @@
 <hr>
 
 <p>Me:</p>
+
 ### ❕ - Málaga
 ### 🧒 - 17
 
 <p>Studies:</p>
+
 ### 📙 - IES BEZMILIANA
 ### 💻 - MICROINFORMÁTICA Y REDES
 
