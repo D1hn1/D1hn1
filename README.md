@@ -1,7 +1,8 @@
 ### Hi there 👋 - I´m:
 <h1 style="font-size:10%;">DANI</h1>
-</hr>
-</br>
+<hr>
+<br>
+
 ### ME:
 ### ❕ - Málaga
 ### 🧒 - 17
