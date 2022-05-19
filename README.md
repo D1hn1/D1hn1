@@ -2,11 +2,11 @@
 <h1 style="font-size:10%;">DANI</h1>
 <hr>
 
-<marquee>Me:</marquee>
+<p>Me:</p>
 ### ❕ - Málaga
 ### 🧒 - 17
 
-### Studies:
+<p>Studies:</p>
 ### 📙 - IES BEZMILIANA
 ### 💻 - MICROINFORMÁTICA Y REDES
 
