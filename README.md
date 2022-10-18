@@ -1,16 +1,22 @@
-### Hi there 👋 - I´m:
-<h1 style="font-size:10%;">DANI</h1>
-<hr>
+```python
+from myself import *
 
-# Me:
+ME = {
+  "name" : "DANI",
+  "about" : {
+    "location" : "Málaga",
+    "age" : 17
+  },
+  "studies" : {
+    "location" : "IES BEZMILIANA",
+    "studiying" : "MICROINFORMÁTICA Y REDES"
+  }
+}
 
-### ❕ - Málaga
-### 🧒 - 17
-
-# Studies:
-
-### 📙 - IES BEZMILIANA
-### 💻 - MICROINFORMÁTICA Y REDES
-
-
+print("Hey there!!")
+info = input("Enter what you wanna know ~$ ")
+if info == "name": print(ME["name"])
+elif info == "about": print(ME["about"]["location"], ME["about"]["age"])
+elif info == "studies": print(ME["studies"]["location"], ME["studies"]["studiying])
+```
 
