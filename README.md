@@ -17,6 +17,6 @@ print("Hey there!!")
 info = input("Enter what you wanna know ~$ ")
 if info == "name": print(ME["name"])
 elif info == "about": print(ME["about"]["location"], ME["about"]["age"])
-elif info == "studies": print(ME["studies"]["location"], ME["studies"]["studiying])
+elif info == "studies": print(ME["studies"]["location"], ME["studies"]["studiying"])
 ```
 
