@@ -1,3 +1,4 @@
+\`\`\`python
 ```python
 from myself import *
 
@@ -21,4 +22,4 @@ ME = {
 }
 
 ```
-
+\`\`\`
