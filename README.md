@@ -4,11 +4,10 @@ from myself import *
 ME = {
   "name" : "DANI",
   "about" : {
-    "location" : "Málaga",
+    "location" : "?",
     "age" : 17
   },
   "studies" : {
-    "location" : "IES BEZMILIANA",
     "studiying" : "MICROINFORMÁTICA Y REDES"
   },
   "languages" : {
