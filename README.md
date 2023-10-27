@@ -5,7 +5,7 @@ ME = {
   "name" : "DANI",
   "about" : {
     "location" : "?",
-    "age" : 17
+    "age" : 18
   },
   "studies" : {
     "studiying" : "MICROINFORMÁTICA Y REDES"
