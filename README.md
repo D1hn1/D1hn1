@@ -2,15 +2,15 @@
 from myself import *
 
 ME = {
-  "name" : "DANI",
-  "about" : {
-    "location" : "?",
-    "age" : 19
+  "Name" : "Dani",
+  "About" : {
+    "Location" : "?",
+    "Age" : 19
   },
-  "studies" : {
-    "studiying" : "MICROINFORMÁTICA Y REDES"
+  "Studies" : {
+    "Studiying" : "Microinformática Y Redes"
   },
-  "languages" : {
+  "Languages" : {
     "python",
     "bash",
     "c++",
