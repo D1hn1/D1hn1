@@ -1,21 +1,27 @@
 ```python
 from myself import *
 
-ME = {
+myself.ME = {
   "Name" : "Dani",
   "About" : {
     "Location" : "?",
-    "Age" : 19
+    "Age" : 20
   },
   "Studies" : {
-    "Studiying" : "Microinformática Y Redes"
+    "Studied" : {
+      "Microinformática y Redes"
+    },
   },
   "Languages" : {
-    "python",
-    "bash",
-    "c++",
-    "html",
-    "css"
+    "Python",
+    "Bash",
+    "Java",
+    "C++",
+    "Web": {
+      "HTML & CSS",
+      "JavaScript",
+      "TypeScript"
+    },
   }
 }
 
